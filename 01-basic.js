@@ -7,7 +7,7 @@ console.error("에러 메시지");
 //  필요한 출력 객체를 , 구분하여 출력
 console.log("ECMA Script", 2015);
 
-//  변수
+//  변수1
 //  var, let, const
 
 var testVar = 10;   //  ES6 이전에 변수 할당하는 방법
